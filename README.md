@@ -1,7 +1,7 @@
 #Dropdown Html / css
 
 Composant d'une liste déroulante :
-Utilisation de la balise <select></select> et pour le choix utilisation de la balise <option></option>.
+Utilisation de la balise 'select' et pour le choix utilisation de la balise 'option'.
 
 Recettes de gâteaux pour l'exemple.
 
