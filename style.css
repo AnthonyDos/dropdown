@@ -1,0 +1,8 @@
+.bloc{
+    width: 100%;
+    height: 283px;
+    background: no-repeat url('./tarte-chocolat-caramel-antonio-bachour2-300x300.jpg');
+}
+#list-recette{
+    margin-top: 10%;
+}
